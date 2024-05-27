@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "188208271385",
+    "project_id": "cyfinity",
+    "storage_bucket": "cyfinity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188208271385:android:48b77928c4d50a763a1a88",
+        "android_client_info": {
+          "package_name": "com.cyfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188208271385-0nf4iif0uqolcelems06hmuitgs11vf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPMmThtrPig6wPOnkufNHS5QZZxHoYA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188208271385-0nf4iif0uqolcelems06hmuitgs11vf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188208271385-d4p824lu6hecir2b1uptbrtthsojs74j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.messbrain.cyfinity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

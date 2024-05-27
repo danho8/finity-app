@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cyfinity</string>
+    <string name="kakao_app_key">d045106e9ffbc221255ea56fb6bd1416</string>
+    <string name="facebook_app_id">774605860558718</string>
+</resources>
